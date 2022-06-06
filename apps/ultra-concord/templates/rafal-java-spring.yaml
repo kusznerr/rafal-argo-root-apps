@@ -11,7 +11,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: helm/ultra-concord
+    path: helm/ultra-concord-dev
     repoURL: https://github.com/kusznerr/rafal-app-deployments.git
     targetRevision: HEAD
   syncPolicy:
